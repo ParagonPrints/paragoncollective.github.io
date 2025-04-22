@@ -14,7 +14,7 @@ title: Paragon Collective - Coming Soon!
     <label for="language-select">Choose your preferred language:</label>
     <select id="language-select">
       <option value="en">English</option>
-      <option value="es">Español</option>
+      <option value="ar">العربية</option>
       <option value="fr">Français</option>
       </select>
     <button id="survey-button">Go to Survey</button>
@@ -34,10 +34,10 @@ title: Paragon Collective - Coming Soon!
         surveyURL = 'https://tally.so/r/3jEq8J';
         break;
       case 'ar':
-        surveyURL = 'YOUR_ARABIC_SURVEY_URL_HERE';
+        surveyURL = 'https://tally.so/r/w7jbXL';
         break;
       case 'fr':
-        surveyURL = 'YOUR_FRENCH_SURVEY_URL_HERE';
+        surveyURL = 'https://tally.so/r/wzgNE1';
         break;
       default:
         surveyURL = 'https://tally.so/r/3jEq8J';
